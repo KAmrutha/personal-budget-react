@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Gas",
+        "budget": 20
+    },
+    {
+        "title": "Travel",
+        "budget": 15
+    },
+    {
+        "title": "mobile",
+        "budget": 15
+    },
+    {
+        "title": "laptop",
+        "budget": 30
+    },
+    {
+        "title": "shopping",
+        "budget": 80
+    },
+    {
+        "title": "Rent",
+        "budget": 20
+    },
+    {
+        "title": "Other",
+        "budget": 50
+    }
+]
